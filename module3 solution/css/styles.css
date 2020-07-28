@@ -170,14 +170,6 @@ body {
     height: 80px;
   }
 
-  .navbar-brand p { /* Kosher cert */
-    font-size: .6em;
-    margin-top: 12px;
-  }
-  .navbar-brand p img { /* Star-K */
-    height: 20px;
-  }
-
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
     border-color: black;
